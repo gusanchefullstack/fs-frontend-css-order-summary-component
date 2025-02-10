@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@FrontendMentor.io](https://www.frontendmentor.io/solutions/order-summary-component-by-gusanchedev-Vy3yi_GEnK
-- Live Site URL: [@Vercel.com](https://your-live-site-url.com)
+- Solution URL: [@FrontendMentor.io](https://www.frontendmentor.io/solutions/order-summary-component-by-gusanchedev-Vy3yi_GEnK)
+- Live Site URL: [@Vercel.com](https://fs-frontend-css-order-summary-component.vercel.app/)
 
 ## My process
 
