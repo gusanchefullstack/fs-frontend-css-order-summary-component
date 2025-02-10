@@ -5,7 +5,7 @@ const OrderSummary = () => {
       <h1 className="text-dark-blue text-[28px] font-black my-7">
         Order Summary
       </h1>
-      <p className="px-12">
+      <p className="px-12 text-desaturated-blue font-medium">
         You can now listen to millions of songs, audiobooks, and podcasts on any
         device anywhere you like!
       </p>
@@ -14,7 +14,7 @@ const OrderSummary = () => {
           <img src="icon-music.svg" alt="" />
           <div>
             <p className="text-dark-blue text-base font-black">Annual Plan</p>{" "}
-            <p>$59.99/year</p>
+            <p className="font-bold text-desaturated-blue">$59.99/year</p>
           </div>
         </div>
         <p className="underline font-extrabold text-sm text-bright-blue hover:cursor-pointer hover:text-[#796FF7] hover:no-underline">Change</p>
